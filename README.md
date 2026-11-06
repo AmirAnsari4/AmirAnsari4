@@ -18,3 +18,8 @@ My main interests are Full-Stack Web Development and Python Programming.
 - LinkedIn: https://www.linkedin.com/in/amir-ansari4
 - Instagram: https://instagram.com/amir_ansari.aa
 
+## 🎓 Education
+
+- Field of Study: Network and Software
+- Level: High School Student
+- Interest: Computer Science & Web Development
