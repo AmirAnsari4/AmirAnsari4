@@ -23,3 +23,9 @@ My main interests are Full-Stack Web Development and Python Programming.
 - Field of Study: Network and Software
 - Level: High School Student
 - Interest: Computer Science & Web Development
+## 💻 Skills
+
+- Python 
+- HTML 
+- CSS 
+- Git & GitHub 
