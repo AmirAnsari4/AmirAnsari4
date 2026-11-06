@@ -19,4 +19,4 @@ My main interests are Full-Stack Web Development and Python Programming.
 - Instagram: https://instagram.com/amir_ansari.aa
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirAnsari4&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAnsari4&show_icons=true&theme=tokyonight" />
