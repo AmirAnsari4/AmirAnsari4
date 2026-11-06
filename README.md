@@ -29,6 +29,3 @@ My main interests are Full-Stack Web Development and Python Programming.
 - HTML 
 - CSS 
 - Git & GitHub 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirAnsari4&show_icons=true&theme=tokyonight)
